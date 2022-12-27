@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant @ <a href='https://www.usc.edu.au/thompson-institute'>Thompson Institute, UniSC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: false
+    
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Master's student in **Medical Technology and Physics** originally from Estonia :estonia:, but currently work as a research assistant at [the Thompson Institute of University of the Sunshine Coast](https://www.usc.edu.au/thompson-institute) in Australia :australia:.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests include examining different **electroencephalography (EEG)** methods as biomarkers for **depression**, **suicidality**, **ageing**, and **cognition**. Most of my EEG-related code for signal processing and analysis can be found on my GitHub as [`EEG-pyline: EEG pipeline in Python`](https://github.com/teanijarv/EEG-pyline/). Furthermore, I am eager to learn more about other neuroimaging methods (e.g., fMRI, MRS, MEG), neuromodulation (e.g., TMS, TDCS, DBS), machine learning, and neuroscience in general.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides my active involvement with neuroscience and biomedical engineering, I am interested in longetivity research and space exploration. I am sure that all these four fields are one of the most relevant topics throughout the 21st century.
+
+Next milestones for my career are starting a PhD (and finish it!) and work in a neurotech company. I am actively looking for different labs and projects for my PhD journey. :smile:

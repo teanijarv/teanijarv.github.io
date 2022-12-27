@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-03-28 12:00
 inline: true
 ---
 
-A simple inline announcement.
+Moved to Australia and started a Research Assistant position at the Thompson Institute of University of the Sunshine Coast. :kangaroo:
