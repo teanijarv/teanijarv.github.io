@@ -8,9 +8,8 @@ middle_name:
 last_name: Anijärv
 email: toomaserikanijarv@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Toomas Erik Anijärv - a biomedical engineer and neuroscientist
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Toomas Erik Anijärv - a biomedical engineer interested in neuroscience and neurotechnology
+footer_text: 
 keywords: personal-website, toomas-erik-anijarv, toomas, erik, anijarv, anijärv, resume, cv  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -114,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:
-permalink: /blog/:year/:title/
+permalink: /blog/:title/
 
 # Pagination
 pagination:
