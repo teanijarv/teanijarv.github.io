@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - teanijarv
 
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+my_github_repos:
+  - teanijarv/EEG-pyline
+
+contrib_github_repos:
+  - mne-tools/mne-python
