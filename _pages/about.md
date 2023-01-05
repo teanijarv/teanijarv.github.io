@@ -20,6 +20,6 @@ I am a final-year Master's student in **Medical Technology and Physics** origina
 
 My current research interests include examining different **electroencephalography (EEG)** methods as biomarkers for **depression**, **suicidality**, **ageing**, and **cognition**. Most of my EEG-related code for signal processing and analysis can be found on my GitHub as [EEG-pyline: EEG pipeline in Python](https://github.com/teanijarv/EEG-pyline/). Furthermore, I am eager to learn more about other neuroimaging methods (e.g., fMRI, MRS, MEG, NIRS), neuromodulation (e.g., TMS, TDCS, DBS), machine/deep learning, and neuroscience in general.
 
-Besides my active involvement with neuroscience and biomedical engineering, I am interested in longetivity research and space exploration. I am sure that all these four fields are one of the most relevant topics throughout the 21st century.
+Besides my active involvement with neuroscience and biomedical engineering, I am interested in longetivity research, history, and space exploration.
 
 Next milestones in my career are doing a PhD and working in a neurotech company. I am actively looking for different labs and projects for my upcoming PhD journey. :nerd_face:
