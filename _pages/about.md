@@ -16,10 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Master's student in **Medical Technology and Physics** originally from Estonia :estonia:, but currently work as a research assistant at the [Thompson Institute of University of the Sunshine Coast](https://www.usc.edu.au/thompson-institute) in Australia :australia:.
+I am a biomedical engineer with interests in neuroscience and neurotechnology. I recently obtained a Master's degree in **Medical Technology and Physics** from TalTech University in Estonia and currently work as a research assistant at the [Thompson Institute of University of the Sunshine Coast](https://www.usc.edu.au/thompson-institute) in Australia :australia:.
 
 My current research interests include examining different **electroencephalography (EEG)** methods as biomarkers for **depression**, **suicidality**, **ageing**, and **cognition**. Most of my EEG-related code for signal processing and analysis can be found on my GitHub as [EEG-pyline: EEG pipeline in Python](https://github.com/teanijarv/EEG-pyline/). Furthermore, I am eager to learn more about other neuroimaging methods (e.g., fMRI, MRS, MEG, NIRS), neuromodulation (e.g., TMS, TDCS, DBS), machine/deep learning, and neuroscience in general.
 
-Besides my active involvement with neuroscience and biomedical engineering, I am interested in longetivity research, history, and space exploration.
+Besides my active involvement with neuroscience and biomedical engineering, I am interested in ageing and longevity research, history, and space exploration.
 
-Next milestones in my career are doing a PhD and working in a neurotech company. I am actively looking for different labs and projects for my upcoming PhD journey. :nerd_face:
+The next milestone in my career is doing a PhD. Thereby, I am actively looking for a project for my upcoming PhD journey. :nerd_face:
