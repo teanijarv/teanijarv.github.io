@@ -16,8 +16,10 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+
 end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
