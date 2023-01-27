@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Chapter XXV - Terra Australis, 2022
-date: 2023-01-27 10:45
+date: 2023-01-26 12:00
 description: It is like a challenge for myself to keep my life interesting and constantly changing to gain new experiences and thereby the subjective nature of time passing slows down - that way you can live “longer”. Thus, longevity can be divided in two - living a healthy life and have quantitatively more life years, or having an interesting diverse life and live qualitatively longer. But why not both, right?
 categories: annual-review
 giscus_comments: false
