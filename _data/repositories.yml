@@ -3,6 +3,7 @@ github_users:
 
 my_github_repos:
   - teanijarv/EEG-pyline
+  - teanijarv/HLR
 
 contrib_github_repos:
   - mne-tools/mne-python
