@@ -11,12 +11,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Adjunct Fellow
+      institution: Thompson Institute, University of the Sunshine Coast, Australia
+      year: 06.2023 - ...
+      description:
+        - Support and assistance in using the EEG data analysis pipeline (EEG-pyline) developed by me.
+        - Doing original research and writing scientific articles in collaboration with the Healthy Brain Ageing Clinic, Longitudinal Adolescence Brain Study and Clinical Research Unit of the institute.
+    
     - title: Research Assistant
       institution: Thompson Institute, University of the Sunshine Coast, Australia
-      year: 03.2022 - ...
+      year: 03.2022-05/2023
       description:
-        - Creation of an EEG pre-processing and analysis pipeline for supporting conducted studies, including oral ketamine trial for major depression and suicidality, and cognitive decline in older adults.
-        - Management of an upcoming clinical trial of a new medical device
+        - Creation of an EEG pre-processing and analysis pipeline for supporting EEG-related research projects and studies.
+        - Data analysis for studies in electrophysiology (i.e., EEG), ketamine as an antidepressant for depression and suicidality, and healthy brain ageing.
+        - Writing and publishing scientific articles.
       
     - title: Chief Experience Officer
       institution: Triumf Health, Estonia
@@ -39,6 +47,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Medical Science, Neurology
+      institution: Lund University, Sweden
+      year: 08.2023 - ...
+      description:
+        - Part of the Clinical Memory Research Unit in the Faculty of Medicine
+        - Investigating early brain functional changes in the Alzheimer's disease continuum using fMRI and dMRI
     - title: MScEng in Medical Technology and Physics
       institution: Tallinn University of Technology, Estonia
       year: 09.2020-01.2023
@@ -93,6 +107,7 @@
     - title: Python
       items: 
         - Data analytics and visualisation (NumPy, SciPy, Pandas, Matplotlib, seaborn)
+        - MRI image processing and analysis (nibabel, nipype, nipy, dipy, nilearn)
         - Electroencephalography (EEG) signal processing and analysis (MNE, specparam)
         - Basic machine/deep learning (scikit-learn, Tensorflow)
         - Raspberry Pi programming
@@ -114,7 +129,6 @@
 - title: Interests
   type: list
   contents:
-    - <u>Neuroimaging:</u> electroencephalography (EEG), functional magnetic resonance imaging (fMRI), magnetoencephalography (MEG), magnetic resonance spectroscopy (MRS), near-infrared spectroscopy (NIRS)
+    - <u>Neuroimaging:</u> functional magnetic resonance imaging (fMRI), diffusion magnetic resonance imaging (dMRI), electroencephalography (EEG)
     - <u>Neuroscience:</u> Alzheimer's disease, cognitive decline, ageing, cognition, depression, suicidality
-    - <u>Neuromodulation:</u> transcranial magnetic stimulation (TMS), transcranial direct current stimulation (TDCS), deep brain stimulation (DBS)
     - <u>Longetivity:</u> ageing, nutrition, exercise
