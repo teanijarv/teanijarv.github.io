@@ -143,7 +143,7 @@ In addition to all the work, in October, I also had the opportunity to attend a 
 
 In addition to working on my PhD projects, I have also been involved in multiple projects from my previous place of work in Australia including using EEG measures for detecting dementia risk in healthy older adults and predicting treatment response of low-dose ketamine for suicidality and depression.
 
-<div class="l-page-outset">
+<div class="l-body">
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s3-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -165,7 +165,7 @@ This might diverge from the focus of my annual blog post, but I just feel I need
 
 I'm back in a good work routine, but I've found it challenging to maintain an active lifestyle and healthy diet, so I have some of the most common new year's resolutions this year - do more workouts and improve my diet because I know I am capable of doing that and being much more happy with myself as my time in Australia proved me.
 
-<div class="l-page-outset">
+<div class="l-body">
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s4-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
