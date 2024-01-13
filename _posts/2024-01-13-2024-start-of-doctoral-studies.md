@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Start of Doctoral Studies, 2023
+title: Start of Doctoral Studies - 2023
 date: 2024-01-13 12:00
 description: 2023 was the most eventful year of my life so far - my stay in Australia came to an end, had a long holiday where I travelled a lot and hanged out with my best friends, and started a PhD project in Sweden.
 categories: annual-review
@@ -47,43 +47,43 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Waiting for a match at Australian Open 2023 @ Melbourne, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Reaching the summit of the Mount Batur @ Bali, Indonesia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Sunrise hike of Mount Batur @ Bali, Indonesia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                At a Star Wars orchestra concert @ Brisbane, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Having my last hike in QLD and saying goodbye to new friends @ QLD, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Having a blast at a DnB festival with good friends @ Pärnu, Estonia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Enjoying a concert with some old buddies @ Estonia
             </div>
         </div>
     </div>
@@ -91,43 +91,43 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Doing all the touristy things @ Bali, Indonesia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                First day back in home and it was my best friend's birthday party @ Estonia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Taking on Mount Beerwah with my housemate @ QLD, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Retreat trip with my best friends @ Saaremaa, Estonia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                On a dinner cruise with my partner @ Sydney, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Wineglass Bay hike with my best friend @ Tasmania, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
+                Deep sea fishing with my previous supervisor @ Australia
             </div>
         </div>
     </div>
@@ -151,6 +151,9 @@ In addition to working on my PhD projects, I have also been involved in multiple
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s3-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/2023/s3-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
 </div>
 
@@ -167,13 +170,7 @@ I'm back in a good work routine, but I've found it challenging to maintain an ac
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s4-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                caption
-            </div>
-        </div>
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/2023/s4-2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-            <div class="caption">
-                caption
+                Christmas get-together with my best friends and partner in my new home, Sweden
             </div>
         </div>
     </div>
