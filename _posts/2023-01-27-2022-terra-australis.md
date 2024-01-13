@@ -10,7 +10,7 @@ authors:
   - name: Toomas Erik Anijärv
     url: "https://www.toomaserikanijarv.com"
     affiliations:
-      name: Thompson Institute, University of the Sunshine Coast
+      name: University of the Sunshine Coast
 
 ---
 <div class="l-body-outset">
