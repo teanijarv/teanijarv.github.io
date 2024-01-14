@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Start of Doctoral Studies - 2023
+title: Back in EU & Start of Doctoral Studies - 2023
 date: 2024-01-13 12:00
 description: 2023 was the most eventful year of my life so far - my stay in Australia came to an end, had a long holiday where I travelled a lot and hanged out with my best friends, and started a PhD project in Sweden.
 categories: annual-review
@@ -27,9 +27,15 @@ I knew I wanted to work with functional MRI and brain aging and my number one pr
     <div class="row mt-3">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s2-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            <div class="caption">
+                My graduation ceremony @ Tallinn, Estonia
+            </div>
         </div>
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/2023/s2-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            <div class="caption">
+                Family visit @ Lund, Sweden
+            </div>
         </div>
     </div>
 </div>
@@ -47,13 +53,13 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Waiting for a match at Australian Open 2023 @ Melbourne, Australia
+                Watching tennis at Australian Open 2023 @ Melbourne, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Reaching the summit of the Mount Batur @ Bali, Indonesia
+                Reaching the summit of Mount Batur @ Bali, Indonesia
             </div>
         </div>
         <div class="col-sm">
@@ -97,7 +103,7 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                First day back in home and it was my best friend's birthday party @ Estonia
+                First day back in home @ Estonia
             </div>
         </div>
         <div class="col-sm">
@@ -109,7 +115,7 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Retreat trip with my best friends @ Saaremaa, Estonia
+                Retreat trip with best friends @ Saaremaa, Estonia
             </div>
         </div>
         <div class="col-sm">
@@ -127,7 +133,7 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Deep sea fishing with my previous supervisor @ Australia
+                Deep sea fishing with my previous boss and mentor @ Australia
             </div>
         </div>
     </div>
@@ -135,11 +141,11 @@ I knew I needed to take that time off before I start my PhD as I expect the next
 
 ## My research work
 
-I like the new lab and its people a lot and can definitely see myself spending long work days in there. My supervisors are highly successful researchers best in their field and all my peers are super intelligent and high-achievers, thereby it has its pros and cons as I know I will fulfil my potential of becoming a great researcher, but at the same time it puts a lot of stress on you as well due to everyone being highly productive and successful in their work and intuitively I often feel I start comparing myself to others too often, which I definitely need to work on the upcoming years. 
+I like the new lab and its people a lot and can definitely see myself spending long work days in there. My supervisors are highly successful researchers best in their field and all my peers are super intelligent high-achievers, thereby it has its pros and cons as I know I will fulfil my potential of becoming a great researcher, but at the same time it puts a lot of stress on you as well due to everyone being highly productive and successful in their work and intuitively I often feel I start comparing myself to others too often, which I definitely need to work on the upcoming years. 
 
-The main aim of my PhD project is to investigate early brain functional changes of the Alzheimer's disease continuum. Probably during the upcoming year I will be working with ultra-high field functional MRI to examine in detail how decline in associative memory and executive tasks affects brain activation and functional connectivity, but currently I have been working on a project where I explore the associations between hemispherically asymmetric accumulation of Alzheimer's disease specific tau pathology and fMRI-derived functional connectivity in patients with late-stage Alzheimer's disease. I have also been working on finding biomarkers for synaptic degeneration and dysfunction using diffusion MRI, which I want to finish soon. 
+The main aim of my PhD project is to investigate early brain functional changes of the Alzheimer's disease continuum. Probably during the upcoming year I will be working with ultra-high field functional MRI to examine in detail how decline in associative memory and executive tasks affects brain activation and functional connectivity, but currently I have been working on a project where I explore the characteristics of hemispherically asymmetric accumulation of Alzheimer's disease specific tau pathology in patients with mostly late-stage disease. I have also been working on finding biomarkers for synaptic degeneration and dysfunction using diffusion MRI, which I want to finish soon. 
 
-In addition to all the work, in October, I also had the opportunity to attend a 5-day functional MRI workshop in the Martinos Center for Biomedical Imaging in Boston, USA. I am very grateful that my supervisors deemed it viable for me to go as it has given me a lot of confidence in my knowledge of the field which a year ago I almost knew nothing. I think I have already emphasised enough how much I love travelling - moreover, this was my first time visiting the States. I also managed to celebrate my birthday there with a friend I made at the course and after the course ended I went on a short vacation to visit the famous New York City and my fitness tracker was definitely happy with the amount of steps I put in every day there.
+In addition to all the work, in October, I also had the opportunity to attend a 5-day functional MRI workshop at the Martinos Center for Biomedical Imaging in Boston, USA. I am very grateful that my supervisors deemed it viable for me to go as it has given me a lot of confidence in my knowledge of the field. I think I have already emphasised enough how much I love travelling - moreover, this was my first time visiting the States. I also managed to celebrate my birthday there with a friend I made at the course and after the course ended I went on a short vacation to visit the famous New York City and my fitness tracker was definitely happy with the amount of steps I put in every day there.
 
 In addition to working on my PhD projects, I have also been involved in multiple projects from my previous place of work in Australia including using EEG measures for detecting dementia risk in healthy older adults and predicting treatment response of low-dose ketamine for suicidality and depression.
 
