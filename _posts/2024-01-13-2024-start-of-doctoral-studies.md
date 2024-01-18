@@ -77,7 +77,7 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Last hike and saying goodbye to Aussie buddies @ QLD, Australia
+                Last hike with my Aussie buddies @ QLD, Australia
             </div>
         </div>
         <div class="col-sm">
