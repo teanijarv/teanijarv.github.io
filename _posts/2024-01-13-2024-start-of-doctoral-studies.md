@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Back in EU & Start of Doctoral Studies - 2023
-date: 2024-01-13 12:00
+date: 2024-01-17 12:00
 description: 2023 was the most eventful year of my life so far - my stay in Australia came to an end, had a long holiday where I travelled a lot and hanged out with my best friends, and started a PhD project in Sweden.
 categories: annual-review
 giscus_comments: false
@@ -53,7 +53,7 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Watching tennis at Australian Open 2023 @ Melbourne, Australia
+                At Australian Open 2023 @ Melbourne, Australia
             </div>
         </div>
         <div class="col-sm">
@@ -77,19 +77,19 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Having my last hike in QLD and saying goodbye to new friends @ QLD, Australia
+                Last hike and saying goodbye to Aussie buddies @ QLD, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Having a blast at a DnB festival with good friends @ Pärnu, Estonia
+                At a DnB festival with good friends @ Pärnu, Estonia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Enjoying a concert with some old buddies @ Estonia
+                Enjoying the summer and a concert with friends @ Estonia
             </div>
         </div>
     </div>
@@ -103,13 +103,13 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                First day back in home @ Estonia
+                First day back @ Estonia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Taking on Mount Beerwah with my housemate @ QLD, Australia
+                Taking on Mt Beerwah with my housemate @ QLD, Australia
             </div>
         </div>
         <div class="col-sm">
@@ -127,13 +127,13 @@ I knew I needed to take that time off before I start my PhD as I expect the next
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Wineglass Bay hike with my best friend @ Tasmania, Australia
+                Wineglass Bay hike with my best lad @ Tasmania, Australia
             </div>
         </div>
         <div class="col-sm">
             {% include figure.html path="assets/img/2023/s1-14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Deep sea fishing with my previous boss and mentor @ Australia
+                Deep sea fishing with my mentor @ QLD, Australia
             </div>
         </div>
     </div>
@@ -143,9 +143,9 @@ I knew I needed to take that time off before I start my PhD as I expect the next
 
 I like the new lab and its people a lot and can definitely see myself spending long work days in there. My supervisors are highly successful researchers best in their field and all my peers are super intelligent high-achievers, thereby it has its pros and cons as I know I will fulfil my potential of becoming a great researcher, but at the same time it puts a lot of stress on you as well due to everyone being highly productive and successful in their work and intuitively I often feel I start comparing myself to others too often, which I definitely need to work on the upcoming years. 
 
-The main aim of my PhD project is to investigate early brain functional changes of the Alzheimer's disease continuum. Probably during the upcoming year I will be working with ultra-high field functional MRI to examine in detail how decline in associative memory and executive tasks affects brain activation and functional connectivity, but currently I have been working on a project where I explore the characteristics of hemispherically asymmetric accumulation of Alzheimer's disease specific tau pathology in patients with mostly late-stage disease. I have also been working on finding biomarkers for synaptic degeneration and dysfunction using diffusion MRI, which I want to finish soon. 
+The main aim of my PhD project is to investigate early brain functional changes of the Alzheimer's disease continuum. Probably during the upcoming year I will be working with ultra-high field functional MRI to examine in detail how decline in associative memory and executive task performance is associated with brain activation and functional connectivity, but currently I have been working on another project related to atypical tau pathology progression in Alzheimer's disease and how it is related to the functionality and structure of the brain. I also have been working on finding biomarkers for synaptic degeneration and dysfunction using diffusion MRI, which I want to finish soon. 
 
-In addition to all the work, in October, I also had the opportunity to attend a 5-day functional MRI workshop at the Martinos Center for Biomedical Imaging in Boston, USA. I am very grateful that my supervisors deemed it viable for me to go as it has given me a lot of confidence in my knowledge of the field. I think I have already emphasised enough how much I love travelling - moreover, this was my first time visiting the States. I also managed to celebrate my birthday there with a friend I made at the course and after the course ended I went on a short vacation to visit the famous New York City and my fitness tracker was definitely happy with the amount of steps I put in every day there.
+In addition to all the work, in October, I also had the opportunity to attend a 5-day functional MRI workshop at the Martinos Center for Biomedical Imaging in Boston, USA. I am very grateful that my supervisors deemed it viable for me to go as it has given me a lot of confidence in my knowledge of the topic discussed. I think I have already emphasised enough how much I love travelling - moreover, this was my first time visiting the States. I also managed to celebrate my birthday there with a friend I made at the course and after the course ended I went on a short vacation to visit the famous New York City and my fitness tracker was definitely happy with the amount of steps I put in every day there.
 
 In addition to working on my PhD projects, I have also been involved in multiple projects from my previous place of work in Australia including using EEG measures for detecting dementia risk in healthy older adults and predicting treatment response of low-dose ketamine for suicidality and depression.
 
@@ -167,7 +167,7 @@ In addition to working on my PhD projects, I have also been involved in multiple
 
 With the first half of the year, I was living and working in Australia and I definitely felt the most active and healthy I have ever been in my life (constant sunshine works wonders). During my long holiday, I got rid of all my responsibilities for a while and it was necessary for my mental health to completely do a factory reset to my brain and actually crave for routine and work towards the end of June. And then I moved to Lund, Sweden which is a cute little university town with population around 100k - perfect for not having too many distractions, but not being bored in case I wanted to go out as well. 
 
-This might diverge from the focus of my annual blog post, but I just feel I need to mention how crazily fast the world is changing technology-wise. The start of generative AI boom has really taken off in sometimes a bit scary notes, but I stay positive that these new tools need to be used. I feel I am already quite dependent on this new tools and I think that it is natural - just like we have been relying on search engines for the past decade for gathering information from the Internet, I reckon this is the next important step towards an upgrade in our extended brain.
+This might diverge from the focus of my annual blog post, but I just feel I need to mention how crazily fast the world is changing technology-wise. The start of generative AI boom has really taken off in sometimes a bit scary notes, but I stay positive that these new tools need to be used. I feel I am already quite dependent on this new tools and I think that it is natural - just like we have been relying on search engines for the past decade for gathering information from the internet, I reckon this is the next important step towards an upgrade of our extended brain.
 
 I'm back in a good work routine, but I've found it challenging to maintain an active lifestyle and healthy diet, so I have some of the most common new year's resolutions this year - do more workouts and improve my diet because I know I am capable of doing that and being much more happy with myself as my time in Australia proved me.
 
