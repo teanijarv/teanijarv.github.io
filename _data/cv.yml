@@ -52,7 +52,7 @@
       year: 08.2023 - ...
       description:
         - Part of the Clinical Memory Research Unit in the Faculty of Medicine.
-        - Investigating early brain functional changes in the Alzheimer's disease continuum using fMRI and dMRI.
+        - Investigating early brain functional and structural changes in the Alzheimer's disease continuum using fMRI and DWI.
     - title: MScEng in Medical Technology and Physics
       institution: Tallinn University of Technology, Estonia
       year: 09.2020-01.2023
@@ -74,6 +74,9 @@
 - title: Further training
   type: time_table
   contents:
+    - title: 5-day Functional MRI Workshop
+      year: '10.2023'
+      institution: The Martinos Center for Biomedical Imaging
     - title: BCI & Neurotechnology Spring School 2021
       year: '04.2021'
       institution: g.tec medical engineering
@@ -96,7 +99,7 @@
     - title: Python
       items: 
         - Data analytics and visualisation (NumPy, SciPy, Pandas, Matplotlib, seaborn)
-        - MRI image processing and analysis (nibabel, nipype, nipy, dipy, nilearn)
+        - MRI image processing and analysis (nibabel, nipype, nipy, dipy, nilearn, MRtrix)
         - Electroencephalography (EEG) signal processing and analysis (MNE, specparam)
         - Basic machine/deep learning (scikit-learn, Tensorflow)
         - Raspberry Pi programming
@@ -106,9 +109,8 @@
         - Signal processing and analysis
     - title: Science
       items:
-        - Electroencephalography (EEG) measurements and analysis
         - Scientific writing
-        - Statistics (Python, SPSS)
+        - Statistics
         - Systematic review and meta-analysis
     - title: Other
       items:
@@ -118,6 +120,6 @@
 - title: Interests
   type: list
   contents:
-    - <u>Neuroimaging:</u> functional magnetic resonance imaging (fMRI), diffusion magnetic resonance imaging (dMRI), electroencephalography (EEG)
-    - <u>Neuroscience:</u> Alzheimer's disease, cognitive decline, ageing, cognition, depression, suicidality
-    - <u>Longetivity:</u> ageing, nutrition, exercise
+    - <u>Neuroimaging:</u> functional magnetic resonance imaging (fMRI), diffusion weighted imaging (DWI), quantitative susceptibility mapping (QSM), electroencephalography (EEG)
+    - <u>Neuroscience:</u> Alzheimer's disease, cognitive decline, aging, cognition, depression, suicidality
+    - <u>Longetivity:</u> aging, nutrition, exercise
