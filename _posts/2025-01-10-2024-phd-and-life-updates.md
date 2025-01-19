@@ -66,7 +66,7 @@ The winter holidays were spent quietly in Lund, embracing the cozy indoor "rotti
         <div class="col-sm">
             {% include figure.html path="assets/img/2024/fig2_1-2_v2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                130km bike ride to Kihnu @ Estonia
+                130km bike ride from Viljandi to Kihnu @ Estonia
             </div>
         </div>
         <div class="col-sm">
@@ -110,7 +110,7 @@ The winter holidays were spent quietly in Lund, embracing the cozy indoor "rotti
         <div class="col-sm">
             {% include figure.html path="assets/img/2024/fig2_2-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Good friends visiting @ Lund, Weden
+                Good friends visiting @ Lund, Sweden
             </div>
         </div>
         <div class="col-sm">
