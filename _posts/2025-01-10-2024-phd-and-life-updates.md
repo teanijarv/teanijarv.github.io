@@ -22,30 +22,32 @@ A year has swiftly passed by and I find myself writing yet another annual update
 ## PhD: growing pains & small victories
 
 The comfort of saying “I’m just a first-year PhD student” has passed, and while expectations have grown, so has my confidence (a bit). The occasional imposter syndrome still visits my conscience, but I’ve noticed how my accumulated knowledge and skills within the field of neurodegenerative diseases and neuroimaging are finally starting to click together. The interdisciplinary and enthusiastic lab environment and supportive supervisors have been instrumental in my increased confidence. The patience of my supervisors with my sometimes unconventional ideas has been remarkable - many weird ideas and seemingly naive questions have been met with constructive feedback, shaping me into a more well-rounded researcher. Beyond that, the support among fellow PhD students has been invaluable. I feel that we have a strong support system where one can easily express their issues to each other and most often everyone has been at a similar situation before and can share their experiences and insights. There’s something deeply reassuring about knowing that these moments of doubt and struggle aren’t personal shortcomings but rather universal experiences in the PhD journey, each of us processing them in our own way.
+
 In comparison to the initial plans, my thesis topic has changed a bit. Nevertheless, I'm now putting the finishing touches on my first manuscript, but I can’t help but to reflect on what a rollercoaster this project has been. Initially, we faced the humbling experience of finding no evidence for our primary hypothesis, and we were prepared to publish it as a null-finding but eventually we developed a secondary hypothesis which provided some remarkable findings. This is what's cool about science - you conceptualise, gather and analyse the data, and interpret the findings, and it can confirm or not confirm your initial hypotheses and sometimes even lead you down to a new unexpected path. While this detour extended the timeline of the project, the excitement of these discoveries made the wait worthwhile. Still, I won’t sugarcoat it - there were days when I left the lab feeling completely defeated and just thinking that I will never finish it. The key is remembering those tiny breakthrough moments that make it all worthwhile. Looking ahead, I’m already diving into my second project which I'm very excited about, and I’m feeling optimistic about my half-time review seminar later this new year.
 
 <div class="l-body">
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/2024/fig1-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="row mt-3 d-flex align-items-stretch">
+        <div class="col-sm-3 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/2024/fig1-1.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
                 BioFINDER's Research Reproducibility Workshop @ Smygehamn, Sweden
             </div>
         </div>
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/2024/fig1-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="col-sm-6 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/2024/fig1-2.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
                 Summer retreat with the lab @ Lund, Sweden
             </div>
         </div>
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/2024/fig1-3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="col-sm-3 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/2024/fig1-3.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
                 MultiPark Retreat @ Lund, Sweden
             </div>
         </div>
     </div>
 </div>
+
 
 ## Finding balance: travelling & countryside home
 
