@@ -30,19 +30,19 @@ In comparison to the initial plans, my thesis topic has changed a bit. Neverthel
         <div class="col-sm-3 mt-3 mt-md-0">
             {% include figure.html path="assets/img/2024/fig1-1.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
-                BioFINDER's Research Reproducibility Workshop @ Smygehamn, Sweden
+                Reproducibility retreat @ Smygehamn, Sweden
             </div>
         </div>
         <div class="col-sm-6 mt-3 mt-md-0">
             {% include figure.html path="assets/img/2024/fig1-2.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
-                Summer retreat with the lab @ Lund, Sweden
+                Summer retreat with our lab @ Lund, Sweden
             </div>
         </div>
         <div class="col-sm-3 mt-3 mt-md-0">
             {% include figure.html path="assets/img/2024/fig1-3.jpeg" class="img-fluid rounded z-depth-1 h-100" zoomable=true %}
             <div class="caption">
-                MultiPark Retreat @ Lund, Sweden
+                MultiPark retreat @ Lund, Sweden
             </div>
         </div>
     </div>
@@ -64,7 +64,7 @@ The winter holidays were spent quietly in Lund, embracing the cozy indoor "rotti
             </div>
         </div>
         <div class="col-sm">
-            {% include figure.html path="assets/img/2024/fig2_1-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            {% include figure.html path="assets/img/2024/fig2_1-2_v2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
                 130km bike ride to Kihnu @ Estonia
             </div>
@@ -110,7 +110,7 @@ The winter holidays were spent quietly in Lund, embracing the cozy indoor "rotti
         <div class="col-sm">
             {% include figure.html path="assets/img/2024/fig2_2-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
-                Showing our city to good friends @ Lund, Weden
+                Good friends visiting @ Lund, Weden
             </div>
         </div>
         <div class="col-sm">
@@ -120,7 +120,7 @@ The winter holidays were spent quietly in Lund, embracing the cozy indoor "rotti
             </div>
         </div>
         <div class="col-sm">
-            {% include figure.html path="assets/img/2024/fig2_2-4.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            {% include figure.html path="assets/img/2024/fig2_2-4_v2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
             <div class="caption">
                 With my brother @ Viljandi, Estonia
             </div>
