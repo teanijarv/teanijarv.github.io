@@ -2,9 +2,10 @@ github_users:
   - teanijarv
 
 my_github_repos:
-  - teanijarv/mribrew
+  - teanijarv/phd-neurodegeneration-imaging
   - teanijarv/EEG-pyline
   - teanijarv/HLR
 
 contrib_github_repos:
+  - nipy/nipype/
   - mne-tools/mne-python
